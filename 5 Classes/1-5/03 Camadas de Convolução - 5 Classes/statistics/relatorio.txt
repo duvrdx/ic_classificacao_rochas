@@ -1,0 +1,26 @@
+Modelo:Augumentation 3 Camadas de Convolução
+
+Evaluate:
+[0.34125831723213196, 0.9495798349380493]
+
+ Matriz de Confusão:
+[[17  0  0  0  0]
+ [ 0 24  1  2  1]
+ [ 0  0 21  0  0]
+ [ 0  0  1 27  0]
+ [ 0  1  0  0 24]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     class 1       1.00      1.00      1.00        17
+     class 2       0.86      0.96      0.91        25
+     class 3       1.00      0.91      0.95        23
+     class 4       0.96      0.93      0.95        29
+     class 5       0.96      0.96      0.96        25
+
+    accuracy                           0.95       119
+   macro avg       0.96      0.95      0.95       119
+weighted avg       0.95      0.95      0.95       119
+
+

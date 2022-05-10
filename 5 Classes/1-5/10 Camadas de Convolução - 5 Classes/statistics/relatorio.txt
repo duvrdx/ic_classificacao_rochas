@@ -1,0 +1,34 @@
+Modelo:Augumentation 10 Camadas de Convolução
+
+Evaluate:
+[0.41976818442344666, 0.8967136144638062]
+
+ Matriz de Confusão:
+[[17  0  0  0  0  0  0  0  0]
+ [ 0 23  0  5  0  1  0  0  0]
+ [ 0  0 18  3  0  0  0  0  0]
+ [ 0  5  3 20  0  0  0  0  0]
+ [ 0  0  0  0 25  1  0  0  0]
+ [ 0  2  0  0  0 22  0  0  0]
+ [ 0  0  0  0  1  0 14  0  0]
+ [ 0  0  0  0  0  0  0 32  0]
+ [ 0  0  0  0  0  0  0  1 20]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     class 1       1.00      1.00      1.00        17
+     class 2       0.79      0.77      0.78        30
+     class 3       0.86      0.86      0.86        21
+     class 4       0.71      0.71      0.71        28
+     class 5       0.96      0.96      0.96        26
+     class 6       0.92      0.92      0.92        24
+     class 7       0.93      1.00      0.97        14
+     class 8       1.00      0.97      0.98        33
+     class 9       0.95      1.00      0.98        20
+
+    accuracy                           0.90       213
+   macro avg       0.90      0.91      0.91       213
+weighted avg       0.90      0.90      0.90       213
+
+
