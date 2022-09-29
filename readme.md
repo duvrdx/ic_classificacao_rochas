@@ -12,4 +12,4 @@ For this project, several models of CNN's were developed in order to find the be
 - models that classify the 9 rock types at a time, increasing the amount of convolution layer creation each time new experiment
 
 
-This project was carried out at the **Nu[tec]²** laboratory, available from **IFES**, under the guidance of **Profª Dr. Karin Satie Komati**
+This project was carried out at the **Nu[tec]²** laboratory, available from **IFES**, under the guidance of **Prof.ª Dra. Karin Satie Komati**
