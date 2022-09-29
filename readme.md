@@ -3,7 +3,7 @@
 ## **Abstract**
 This project aimed to carry out experiments, to find the "best" model to classify the different types of rock
 
-For this project we used the dataset called "Rock Types" made available by Alexis Pascual on the website ***Mendeley Data***
+For this project we used the dataset called "Rock Image" made available by Alexis Pascual on the website ***Mendeley Data***
 
 For this project, several models of CNN's were developed in order to find the best model. These tests consist of:
 
