@@ -1,4 +1,4 @@
-# Classification of rocks with convolutional neural networks
+# How many Convolutional Layers are required for a Granite Classification Neural Network?
 
 ## **Abstract**
 This project aimed to carry out experiments, to find the "best" model to classify the different types of rock
